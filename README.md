@@ -14,10 +14,10 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/prashantkoirala465/Logo-Slider---Infinite
 2. Go the the project directory
 3. ```bash
-   cd your-repo
+   cd Logo-Slider---Infinite
 4. Open the index.html file in your preferred web browser to view the logo slider.
 
 ## Usage
